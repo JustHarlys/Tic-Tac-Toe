@@ -1,0 +1,4 @@
+- In order for it to work you need to keep both (game and player).py on the same Folder
+- Also you can see in the file game.py down at the end of it "o_player" - "x_player" you can set who the players are, you, another human, a smart AI or a normal AI
+- You can edit, add, or delete players on the file player.py
+- Thanks for playing!
